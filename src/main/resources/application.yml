@@ -1,0 +1,8 @@
+spring:
+  cassandra:
+    username: cassandra
+    password:
+    contactpoints: localhost
+    port: 9042
+    keyspace: ks_multitenancy
+    basepackage: io.vishalhxc.cassandramultitenancydemo
